@@ -14,4 +14,5 @@ function hello(name) {
   document.write("<h1>Hello, " + name + "!</h1>");
   console.log("Done!");
 }
+hello("There!");
 ```
